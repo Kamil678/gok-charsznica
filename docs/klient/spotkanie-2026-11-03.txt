@@ -1,0 +1,279 @@
+GOK Charsznica - notatki ze spotkania
+03.11.2026r. · Kamil Pigulak
+
+Instytucja i cel strony
+Pytanie                                              Notatki
+
+Najważniejsze zadanie strony:                        Aktualności, wydarzenia, zapisy są telefonicznie
+wydarzenia, zapisy, wizytówka?
+Czy ludzie mają na stronie głównie sprawdzać,
+co się dzieje, zapisywać się na zajęcia, czy tylko
+znaleźć adres i telefon? Od tego zależy, co jest
+na stronie głównej i ile funkcji trzeba
+zbudować.
+Główni odbiorcy: seniorzy, rodzice,                  Raczej wszyscy
+młodzież?
+Dla kogo przede wszystkim jest strona. Seniorzy
+= większa czcionka i prostota, rodzice = szybki
+grafik zajęć dla dzieci. Wpływa na projekt,
+mniej na cenę.
+Filie, świetlice, inne obiekty z                     Nie ma czegoś takiego
+osobnymi podstronami?
+Czy GOK prowadzi np. świetlice wiejskie w
+sołectwach lub bibliotekę, które mają mieć
+własne podstrony z adresem i ofertą. Każda
+dodatkowa jednostka = więcej pracy.
+Logo, kolory, identyfikacja wizualna?                Jest logo, kolory do wybory, pastelowe, stonowane kolory
+Kto robi plakaty?
+Czy mają gotowe logo w dobrej jakości
+(najlepiej wektor: SVG, PDF, AI) i stałe kolory.
+Jeśli nie ma nic, projekt graficzny trwa dłużej.
+Osoba od plakatów może pomóc przy grafice.
+Domena i e-maile: czy są, u kogo, kto                Domena, numer do Tomka Adlera:
+zarządza?
+Czy mają adres typu gokcharsznica.pl i skrzynki
+e-mail. Trzeba wiedzieć, u kogo to wykupione i
+kto ma dostęp, żeby nie zepsuć poczty przy
+podpinaniu strony. Domena powinna być na
+GOK, nie na Ciebie.
+Strony, które im się podobają i nie                  Gok wolbrom można się wzorować
+podobają?
+                                                     Centrum kultury miechów można się wzorować, kalendarz
+Najszybszy sposób, żeby poznać gust. Pokaż           moze dodać
+trzy przykłady z tabeli niżej i zapisz reakcje.
+Treści
+Pytanie                                             Notatki
+
+Posty: jak często? Kategorie, tagi?                 Do zastanowienia, ale raczej zrobimy
+Raz w miesiącu czy kilka razy w tygodniu.
+Kategorie to np. „Koncerty”, „Dla dzieci”,
+„Ogłoszenia” — pozwalają filtrować posty.
+Mało wpływa na cenę, ale mówi, jak żywa
+będzie strona.
+(!) Wydarzenia: osobny kalendarz czy                Zwykłę posty, wydarzenia data godzina
+zwykłe posty?
+Post to tekst ze zdjęciem i datą publikacji.
+Wydarzenie ma datę i godzinę rozpoczęcia,
+miejsce i plakat, i pokazuje się w kalendarzu lub
+na liście „nadchodzące”. Kalendarz to osobna
+funkcja — przeskok z wariantu podstawowego
+do standardowego.
+(!) Zajęcia stałe: grafik, prowadzący,              Są stałe zajęcia i efiniuje się je we wrześniu
+cena?
+Czy GOK prowadzi stałe sekcje (taniec, plastyka,
+zespół ludowy, koło gospodyń) i czy każda ma
+mieć opis z dniem, godziną, prowadzącym,
+wiekiem i ceną. To osobny katalog, też podnosi
+wariant.
+Galerie i wideo: ile zdjęć, YouTube?                Dużo zdjęć nie ma od 7 do 10, filmów nie było
+Ile zdjęć dodają po jednym wydarzeniu (10 czy
+200) i czy mają filmy. Filmy osadza się z
+YouTube — nie trzymamy ich na serwerze. Dużo
+zdjęć = większy hosting.
+Dokumenty do pobrania: regulaminy,                  Dokumnety do pobranią są
+formularze?
+Czy publikują PDF-y: regulaminy konkursów,
+karty zgłoszeń, zgody rodziców. Panel musi
+pozwalać je łatwo dodawać.
+Stałe podstrony: o nas, kadra, wynajem              Kontakt, o nas, aktualności (1) i wydarzenia w jednym
+sal, kontakt?                                       miejscu, dostarczymy
+Lista „zwykłych” stron, które rzadko się
+zmieniają. Policz je — liczba podstron to jeden z
+głównych elementów wyceny.
+Kto przygotuje teksty i zdjęcia na start?           Ja nic z tym nie robię, dostarczą
+Bardzo ważne. Jeśli liczą, że Ty napiszesz teksty
+i przeniesiesz zdjęcia z Facebooka, to
+dodatkowa praca, którą trzeba wycenić osobno.
+Najlepiej: oni dają treści, Ty wstawiasz.
+Zgody na wizerunek, zwłaszcza dzieci?               Rodo od klienta
+Pytanie                                               Notatki
+Czy mają podpisane zgody rodziców na
+publikację zdjęć dzieci. To ich obowiązek, nie
+Twój, ale lepiej, żeby wiedzieli przed startem.
+
+
+Funkcje
+Pytanie                                               Notatki
+
+(!) Zapisy online: limit miejsc,                      Nie ma
+potwierdzenie mailem?
+Czy ktoś ma się zapisać na zajęcia przez
+formularz na stronie, czy wystarczy telefon.
+Zapisy z limitem miejsc, listą uczestników i
+mailem z potwierdzeniem to małe „system” —
+duży wpływ na cenę.
+(!) Rezerwacja lub wynajem sal przez                  Nie ma
+formularz?
+Czy GOK wynajmuje salę (np. na urodziny, stypy,
+zebrania) i chce przyjmować zapytania przez
+stronę. Prosty formularz to drobiazg, kalendarz
+dostępności to dużo pracy.
+(!) Płatności online: bilety, zajęcia?                Nie ma
+Czy chcą, żeby ludzie płacili na stronie kartą lub
+BLIK-iem. Wymaga bramki płatności
+(Przelewy24, PayU), umowy GOK z operatorem i
+regulaminu. Najdroższa funkcja — często lepiej
+podpiąć gotowy system biletowy.
+Newsletter lub powiadomienia?                         Nie
+Czy chcą wysyłać mieszkańcom maile o
+wydarzeniach. Zwykle podpina się zewnętrzne
+narzędzie (np. MailerLite) — mało pracy, ale
+dochodzi zgoda RODO.
+Facebook: autopublikacja czy
+wyświetlanie feedu?
+Na pewno prowadzą Facebooka. Pytanie, czy
+chcą tylko link lub podgląd postów z FB na
+stronie, czy żeby post ze strony sam trafiał na FB.
+Automatyczna publikacja bywa zawodna —
+lepiej odradzić.
+Wersja obcojęzyczna?                                  nie
+Czy strona ma mieć np. wersję angielską. Dla
+GOK-u zwykle nie — ale jeśli tak, prawie
+podwaja pracę przy treściach.
+Formularz kontaktowy?                                 nie
+Pytanie                                              Notatki
+Prosty formularz „napisz do nas”. Mało pracy, ale
+wymaga klauzuli RODO pod formularzem.
+
+
+Obsługa i redakcja
+Pytanie                                              Notatki
+
+Ile osób dodaje treści? Różne                        Jedno konto admina do robienie
+uprawnienia?
+Czy posty dodaje jedna osoba, czy kilka.
+Uprawnienia: np. instruktor może dodać post,
+ale dopiero dyrektor go publikuje. Kilka ról to
+trochę więcej konfiguracji.
+Umiejętności redaktora? Znał wcześniej               Panel była praca
+jakiś panel?
+Czy osoba od strony umie np. dodać post na
+Facebooku, czy korzystała kiedyś z WordPressa.
+Mówi Ci, jak prosty musi być panel i ile czasu dać
+na szkolenie.
+Szkolenie i instrukcja?                              Przygotować
+Spotkanie (1–2 godziny), na którym pokazujesz,
+jak dodać post i wydarzenie, plus krótka
+instrukcja PDF lub nagranie. Wpisz to do oferty
+jako osobną pozycję.
+Stała opieka po wdrożeniu czy                        Narazie wystratować potem ewentualna opieka
+jednorazowo?
+Czy po oddaniu strony mają do Ciebie dzwonić z
+problemami. Opieka = aktualizacje, kopie
+zapasowe, drobne poprawki za stałą kwotę
+miesięczną. Dla Ciebie to stały przychód — warto
+ją zaproponować.
+
+
+Formalności, budżet, termin
+Pytanie                                              Notatki
+
+(!) Budżet lub przedział? Źródło                     5000
+środków?
+Ile mają pieniędzy. Instytucje często mają
+zaplanowaną kwotę w budżecie — zapytaj
+wprost: „Czy macie przewidzianą kwotę na
+stronę?”. Źródło: budżet GOK, dotacja z gminy,
+grant (np. z NCK). Bez tego nie dobierzesz
+wariantu.
+Pytanie                                                Notatki
+
+(!) Czy środki trzeba wydać do końca                   Jak najszybciej ale nie onkretny
+2026?
+Budżet instytucji jest roczny. Jeśli pieniądze są z
+budżetu na 2026, często muszą zapłacić fakturę
+do grudnia — wtedy termin robi się bardzo krótki
+i trzeba podzielić projekt na etapy.
+Dotacja: wymagane logotypy, informacja
+o finansowaniu?
+Jeśli strona jest z dotacji lub grantu, zwykle
+trzeba umieścić logo grantodawcy i zdanie
+„Projekt dofinansowany z…”. Czasem są też
+wymagania co do dostępności czy terminu.
+Tryb zamówienia: zapytanie ofertowe, 3
+oferty?
+Instytucja publiczna nie zawsze może po prostu
+zlecić pracę. Często musi zebrać kilka ofert
+(zapytanie ofertowe) według swojego
+regulaminu. Zapytaj, czy dostaniesz formalne
+zapytanie i w jakiej formie złożyć ofertę.
+Kto akceptuje projekt, kto podpisuje                   Umowa i faktura
+umowę?
+Osoba na spotkaniu nie zawsze decyduje. Zwykle
+podpisuje dyrektor GOK. Dowiedz się, kto mówi
+„tak” na wygląd strony, żeby uniknąć
+niekończących się poprawek.
+BIP i inspektor ochrony danych?                        Bip liink wystarczy
+BIP to Biuletyn Informacji Publicznej — osobna,
+urzędowa strona z dokumentami, którą GOK
+musi mieć. Zwykle jej nie robisz, tylko dajesz link.
+IOD (inspektor ochrony danych) przygotuje lub
+zatwierdzi treść polityki prywatności i klauzul
+RODO.
+Termin uruchomienia? Twarda data?
+Na kiedy strona ma działać i czy jest wydarzenie,
+pod które musi być gotowa (np. ferie, dożynki).
+Twarda data = mniej miejsca na poprawki.
+Faktura: dane, termin płatności,
+transze?
+Na kogo wystawić fakturę (GOK czy gmina), ile
+dni na zapłatę (instytucje często 14–30 dni) i czy
+mogą zapłacić w dwóch częściach. Zaliczka w
+instytucji bywa niemożliwa.
+Ile podstron i ile treści na start?
+Pytanie                                             Notatki
+Policz razem: ile stron typu „o nas”, ile sekcji
+zajęć, ile wydarzeń w roku. To podstawa wyceny
+godzinowej.
+Projekt graficzny: ode mnie czy mają
+grafika?
+Czy oczekują, że zaprojektujesz wygląd, czy ktoś
+(np. osoba od plakatów) da gotowy projekt.
+Zmienia czas i cenę.
+Na kogo domena i hosting? Prawa
+autorskie?
+Domena i hosting najlepiej na GOK (Ty tylko
+konfigurujesz). W umowie: przeniesienie praw
+autorskich do strony na GOK po zapłacie —
+instytucje tego wymagają.
+Gwarancja i poprawki                                3 tury
+Ile rund poprawek projektu (np. 2) i jak długa
+gwarancja na błędy (np. 3 miesiące). Ustal teraz,
+żeby było w ofercie.
+
+
+Przykładowe strony GOK do pokazania
+Strona                             Co jest dobre                                          Reakcja klienta
+
+Centrum Kultury Dworek             Dużo bieli, jeden mocny plakat „Najbliższe
+Białoprądnicki (Kraków)            wydarzenie” na górze, krótkie menu: Wydarzenia,
+                                   Zajęcia, Aktualności. Skala najbliższa małemu
+                                   ośrodkowi
+
+Centrum Kultury Podgórza           Duże zdjęcie z hasłem, pod nim skróty według
+(Kraków)                           odbiorcy: koncerty, spektakle, zajęcia dla dzieci,
+                                   dorosłych, seniorów. Narzędzia dostępności i
+                                   tłumacz migowy w nagłówku
+
+Centrum Kultury w                  Styl magazynowy: duże plakaty, minimalistyczny
+Lublinie                           nagłówek, przycisk „Kup bilet”. Pokazuje, jak dobrze
+                                   wygląda strona oparta na grafikach wydarzeń
+
+
+
+Ustalenia i wolne notatki
+Musi być
+
+    •​ Intuicyjne, łatwe do kliknięcia, menu po prawej, możliwość tworzenia sekcji,
+
+Byłoby fajnie / na później
+   •​
+
+Następne kroki
+
+   •​ ☐ Mail z podsumowaniem — wysłać do: gok@charsznica.pl
+   •​ ☐ Oferta — termin:
+   •​ ☐ Materiały od klienta (logo, zdjęcia, dostęp do domeny):
+
+Wolne notatki
+
