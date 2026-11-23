@@ -1,0 +1,15 @@
+docs/
+.next/
+node_modules/
+pnpm-lock.yaml
+playwright-report/
+test-results/
+media/
+src/payload-types.ts
+src/app/(payload)/
+# local-only files (see .git/info/exclude)
+CLAUDE.md
+.mcp.json
+.claude/
+.superpowers/
+.playwright-mcp/
