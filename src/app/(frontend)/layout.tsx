@@ -1,4 +1,6 @@
 import React from 'react'
+
+import { bodyFont, headingFont } from './fonts'
 import './styles.css'
 
 export const metadata = {
@@ -10,7 +12,7 @@ export default async function RootLayout(props: { children: React.ReactNode }) {
   const { children } = props
 
   return (
-    <html lang="en">
+    <html lang="pl" className={`${bodyFont.variable} ${headingFont.variable}`}>
       <body>
         <main>{children}</main>
       </body>
